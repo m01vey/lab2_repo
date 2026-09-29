@@ -9,5 +9,6 @@ namespace Лаба3
     class main
     {
         print("Hello from main.py")
+        print("Second change")
     }
 }
