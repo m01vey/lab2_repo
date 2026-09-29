@@ -51,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="info.txt" />
+    <Content Include="main.py" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
