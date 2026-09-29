@@ -10,5 +10,6 @@ namespace Лаба3
     {
         print("Hello from main.py")
         print("Second change")
+        print("The third change from the new branch")
     }
 }
